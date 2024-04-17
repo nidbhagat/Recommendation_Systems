@@ -3,6 +3,7 @@ These systems play an important role in many e-commerce sites, notably Amazon, S
 # Case: Netflix Data Exploration and Visualization
 The dataset that is used comes from Netflix Movies and TV Shows 2021. 
 Data: https://www.kaggle.com/datasets/satpreetmakhija/netflix-movies-and-tv-shows-2021
+![Uploading netflix.jfif…]()
 
 
 
